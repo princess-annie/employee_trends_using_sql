@@ -20,4 +20,5 @@ This structure supports efficient querying and scalable workforce analytics.
 
 <img width="1184" height="701" alt="Erd diagaram" src="https://github.com/user-attachments/assets/98490c1f-0226-43af-a170-bfe9f011a9a9" />
 
-Kindly refer to my Medium for Insights and Recommendations
+## Detailed Analysis & Recommendations
+For in-depth analysis and business recommendations, read my article on [Medium](your-medium-link-here)
